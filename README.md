@@ -58,7 +58,7 @@ int main()
 
 ## OUTPUT:
 
-<img width="438" height="205" alt="image" src="https://github.com/user-attachments/assets/b3fc3717-1aa8-443c-90fe-9faca20d3eb5" />
+<img width="1254" height="927" alt="image" src="https://github.com/user-attachments/assets/3739617a-6678-4ab1-83de-1a2a99fcadf9" />
 
 
 ## RESULT :
